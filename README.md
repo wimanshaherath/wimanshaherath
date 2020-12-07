@@ -3,15 +3,19 @@
 
 <p align="center">I believe Open Source is for EVERYONE and it is a very cool thing.</p>
 
+---
 <p align="center">
   <a href="https://github.com/wimanshaherath?tab=followers">
     <img src="https://img.shields.io/github/followers/wimanshaherath?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  
+
 </p>
+
 
 <p align='center'>I love and much engadge with cpp and javascript<br><br>
   <img width="50%" src="https://user-images.githubusercontent.com/49340101/101366462-fcc12e00-38ca-11eb-88cf-ba3c236fc579.png" alt="react quiz"/></p>
+
+---
 
 <p align="left">
   
