@@ -1,5 +1,16 @@
-### Hi there Welcome 👋
+<h3 align="center"><B>Hi there Welcome<B>👋</h3> 
 
+<p align="center">I believe Open Source is for EVERYONE and it is a very cool thing.</p>
+
+<p align="center">
+  <a href="https://github.com/wimanshaherath?tab=followers">
+    <img src="https://img.shields.io/github/followers/wimanshaherath?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  
+</p>
+
+<p align='center'>I love and much engadge wiht cpp and javascript<br>
+  <img width="50%" src="https://user-images.githubusercontent.com/49340101/101366462-fcc12e00-38ca-11eb-88cf-ba3c236fc579.png" alt="react quiz"/></p>
 
 <!--
 **wimanshaherath/wimanshaherath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
