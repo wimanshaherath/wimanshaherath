@@ -1,5 +1,5 @@
 <!--<p align="center"><img src="" widht="100%" alt="title image"/></p>-->
-<h2 align="center"><B>Hi there.. Welcome<B>👋</h2> 
+<h2 font-family="'Langar', cursive" align="center"><B>Hi there.. WELCOME<B>👋</h2> 
 
 <p align="center">I believe Open Source is for EVERYONE and it is a very cool thing.</p>
 
