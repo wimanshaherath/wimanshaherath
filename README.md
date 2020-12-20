@@ -1,7 +1,7 @@
-<!--<p align="center"><img src="" widht="100%" alt="title image"/></p>-->
-<h2 font-family="'Langar', cursive" align="center"><B>Hi there.. WELCOME<B>👋</h2> 
+<p align="center"><img src="https://user-images.githubusercontent.com/49340101/102716277-deaef100-4300-11eb-98d7-de6c6a6c41b3.png" widht="100%" alt="title image"/></p>
+<!-- <h2 font-family="'Langar', cursive" align="center"><B>Hi there.. WELCOME<B>👋</h2>  -->
 
-<p align="center">I believe Open Source is for EVERYONE and it is a very cool thing.</p>
+<h4 align="center">I believe Open Source is for EVERYONE and it is a very cool thing.</h4>
 
 ---
 <p align="center">
