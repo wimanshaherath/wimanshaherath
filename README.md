@@ -1,7 +1,8 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/49340101/102716277-deaef100-4300-11eb-98d7-de6c6a6c41b3.png" widht="100%" alt="title image"/></p>
-<!-- <h2 font-family="'Langar', cursive" align="center"><B>Hi there.. WELCOME<B>👋</h2>  -->
+<!--<p align="center"><img src="https://user-images.githubusercontent.com/49340101/102716277-deaef100-4300-11eb-98d7-de6c6a6c41b3.png" widht="100%" alt="title image"/></p>-->
+<h2 font-family="'Langar', cursive" align="Left"><B>Hi there.. I'm Wimansha<B>👋</h2>  
 
-<h4 align="center">I believe Open Source is for EVERYONE and it is a very cool thing.</h4>
+<p><b>Problem Solving | Security research | Devloping</b></p>
+<h4 align="left">I believe Open Source is for EVERYONE and it is a very cool thing.</h4>
 
 ---
 <p align="center">
@@ -11,9 +12,10 @@
 
 </p>
 
+<h3>Technologies</h3>
 
-<p align='center'>I love and much engadge with cpp and javascript<br><br>
-  <img width="50%" src="https://user-images.githubusercontent.com/49340101/101366462-fcc12e00-38ca-11eb-88cf-ba3c236fc579.png" alt="react quiz"/></p>
+<!--<p align='center'>I love and much engadge with cpp and javascript<br><br>
+  <img width="50%" src="https://user-images.githubusercontent.com/49340101/101366462-fcc12e00-38ca-11eb-88cf-ba3c236fc579.png" alt="react quiz"/></p>-->
 
 ---
 
