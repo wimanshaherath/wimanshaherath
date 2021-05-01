@@ -12,7 +12,7 @@
 
 </p>
 
-<h3>Technologies</h3>
+<!--<h3>Technologies</h3>-->
 
 <!--<p align='center'>I love and much engadge with cpp and javascript<br><br>
   <img width="50%" src="https://user-images.githubusercontent.com/49340101/101366462-fcc12e00-38ca-11eb-88cf-ba3c236fc579.png" alt="react quiz"/></p>-->
