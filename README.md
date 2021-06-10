@@ -1,5 +1,7 @@
 <!--<p align="center"><img src="https://user-images.githubusercontent.com/49340101/102716277-deaef100-4300-11eb-98d7-de6c6a6c41b3.png" widht="100%" alt="title image"/></p>-->
-<h2 font-family="'Langar', cursive" align="Left"><B>Hi there.. I'm Wimansha Herath<B>👋</h2>  
+# **Wimansha Herath**
+# under constructions
+<!-- <h2 font-family="'Langar', cursive" align="Left"><B>Hi there.. I'm Wimansha Herath<B>👋</h2>  
 
 <p><b>Problem Solving | Security researching | Developing</b></p>
 <h4 align="left">I am a Computer Science undergraduate at Uva Wellassa university.</h4>
@@ -23,19 +25,19 @@
   <img align="left" src="https://img.shields.io/badge/CSS3-1570B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img align="left" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   <img align="left" src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-
+ -->
 
 <!--<p align='center'>I love and much engadge with cpp and javascript<br><br>
   <img width="50%" src="https://user-images.githubusercontent.com/49340101/101366462-fcc12e00-38ca-11eb-88cf-ba3c236fc579.png" alt="react quiz"/></p>-->
 
 ---
 
-<p align="left">
+<!-- <p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=wimanshaherath&show_icons=true&theme=algolia&line_height=48" />
    <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wimanshaherath&count_private=true&theme=algolia">
 
-</p>
+</p> -->
 <!--
 **wimanshaherath/wimanshaherath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
