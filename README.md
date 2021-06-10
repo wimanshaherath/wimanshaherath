@@ -5,6 +5,7 @@ Undergraduate | Developer | Illustrator
 
 * 💻 __I am a Computer Science undergraduate at Uva Wellassa university.__
 * 🔋 __I am learning developing and cyber security also__
+* 🌱 **I’m currently learning reactjs, cpp and networking**
 * ⛳ **2021 goal: Contribute to more open source projects** 
 * 😋 **Fun facts: I love pencil secketching**
 
