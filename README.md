@@ -1,8 +1,12 @@
 <!--<p align="center"><img src="https://user-images.githubusercontent.com/49340101/102716277-deaef100-4300-11eb-98d7-de6c6a6c41b3.png" widht="100%" alt="title image"/></p>-->
-<h2 font-family="'Langar', cursive" align="Left"><B>Hi there.. I'm Wimansha Herath<B>👋</h2>  
+# Hi there.. I am <b>Wimansha Herath</B>👋
 
-<p><b>Problem Solving | Security researching | Developing</b></p>
-<h4 align="left">I am a Computer Science undergraduate at Uva Wellassa university.</h4>
+Undergraduate | Developer | Illustrator
+
+* __I am a Computer Science undergraduate at Uva Wellassa university.__
+* __I am learning developing and cyber security also__
+* __
+
 
 ---
 <p align="left">
