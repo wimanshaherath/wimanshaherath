@@ -1,6 +1,7 @@
 <!--<p align="center"><img src="https://user-images.githubusercontent.com/49340101/102716277-deaef100-4300-11eb-98d7-de6c6a6c41b3.png" widht="100%" alt="title image"/></p>-->
-# Hi there.. I am <b>Wimansha Herath</B>👋
 
+# Hi there.. I am <b>Wimansha Herath</B>👋
+=======
 Undergraduate | Developer | Illustrator
 
 * 💻 __I am a Computer Science undergraduate at Uva Wellassa university.__
@@ -21,6 +22,7 @@ Undergraduate | Developer | Illustrator
 <a href="https://www.facebook.com/wimansha.herath"><img  src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white&END" alt="facebook"/></a>
 
 ---
+
 
 ## **Blog**
 <a href="https://medium.com/@wimanshaban"><img  src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black&END" alt="facebook"/></a>
@@ -44,6 +46,9 @@ Undergraduate | Developer | Illustrator
 
 <img src="https://github-readme-stats.vercel.app/api?username=wimanshaherath&show_icons=true&theme=algolia&line" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wimanshaherath&count_private=true&theme=algolia">
+
+
+=======
 
 
 <!--
