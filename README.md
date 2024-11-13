@@ -6,7 +6,7 @@ Undergraduate | Developer | Illustrator
 * 💻 __I am a Computer Science graduate of Uva Wellassa university.__
 * 🔋 __I am learning developing and cyber security also__
 * 🌱 **I’m good at Angular, Java, and C++**
-* 😋 **Fun facts: I love pencil secketching**
+* 😋 **Fun facts: I love pencil sketching**
 
 <br><img src="https://komarev.com/ghpvc/?username=wimanshaherath&color=blue" alt="profile views"/> <br>
 
