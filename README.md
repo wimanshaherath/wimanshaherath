@@ -1,7 +1,7 @@
 <!--<p align="center"><img src="https://user-images.githubusercontent.com/49340101/102716277-deaef100-4300-11eb-98d7-de6c6a6c41b3.png" widht="100%" alt="title image"/></p>-->
 
 # Hi there.. I am <b>Wimansha Herath</B> 👋
-Undergraduate | Developer | Illustrator
+CS graduate | Software Engineer | Designer
 
 * 💻 __I am a Computer Science graduate of Uva Wellassa university.__
 * 🔋 __I am learning developing and cyber security also__
